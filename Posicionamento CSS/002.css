@@ -1,0 +1,32 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.quadrado {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+
+.superior-esquerdo {
+    top: 0;
+    left: 0;
+}
+
+.superior-direito {
+    top: 0;
+    right: 0;
+}
+
+.inferior-esquerdo {
+    bottom: 0;
+    left: 0;
+}
+
+.inferior-direito {
+    bottom: 0;
+    right: 0;
+}

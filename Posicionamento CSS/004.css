@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.quadrado {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.margem-topo {
+    padding-top: 120px;
+}
+
+.esquerda-120 {
+    margin-left: 120px;
+}
+
+.esquerda-240 {
+    margin-left: 240px;
+}
+
+
+
+
+
+.inferior-direito {
+    bottom: 0;
+    right: 0;
+}
+
+
+.pad-topo {
+    padding-top: 120;
+}
+
+.direita-120 {
+    margin-right: 120px;
+}
+
+.direita-240 {
+    margin-right: 240px;
+}
+
+.meio {
+    margin-bottom: 120px;
+    margin-top: 120px;
+}
+
+.fim {
+    margin-bottom: 240px; /* Ajustado para 240px */
+}

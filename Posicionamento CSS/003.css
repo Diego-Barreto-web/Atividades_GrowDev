@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.caixa {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+}
+
+.scroll {
+    background-color: black;
+    color: white;
+    overflow-y: scroll;
+    height: 200px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+}
